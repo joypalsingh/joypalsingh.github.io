@@ -1,1 +1,3 @@
 # joypalsingh.github.io
+
+/docs
