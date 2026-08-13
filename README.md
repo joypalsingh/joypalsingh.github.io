@@ -1,3 +1,3 @@
 # joypalsingh.github.io
 
-/docs
+# joypalsingh.github.io/test.pdf
